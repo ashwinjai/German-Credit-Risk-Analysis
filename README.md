@@ -16,3 +16,7 @@ In this phase, variables are explored and analyzed for redundancy within the dat
 ***2. Portfolio Review and Gap Identification*** :    <br>
 
 In the subsequent stage, the complete portfolio undergoes measurement using diverse metrics on overall account data, balances, average balances, reporting total duration, and average loan duration. This process also involves the identification of any shortcomings or gaps present in the current strategy and flagging the concern to justify the Scorecard development. <br>
+
+***3. Data Quality Checks*** :    <br>
+
+In the next phases, Data Quality check are being performed. It involves classifying the variables into distinct categories, including identification, date, continuous, and categorical variables and Conduct a thorough examination of missing observations for all variables. The Key continuous variables are analyzed through univariate analysis, gaining insights into their individual distributions,parallelly key categorical variables is analyzed using frequency distribution offering a detailed examination of the occurrence of different categories within each variable. This systematic approach ensures a comprehensive exploration and understanding of the  bank dataset, covering data extraction, variable classification, handling missing data, and detailed analyses of both continuous and categorical variables.  <br>
