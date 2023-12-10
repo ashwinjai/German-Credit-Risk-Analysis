@@ -25,6 +25,24 @@ In the next phases, Data Quality check are being performed. It involves classify
 
 In the concluding stage, the dataset is split into model development and Model Validation dataset. A model is constructed using the development data, and the resulting model equation is applied to the validation data. Neccessary measure taken  to have balanced bad rate distribution for Development and Validation Samples, statistical test is performed for model accuracy and stability and caution taken to avoid high multicollinearity.   <br>
 
+## Data Insights 
+1.  79% of the bad borrowers are concentrated in the category of borrowers who do not have any savings account or maintain low savings balances. Borrowers who maintained more than 100DM in their savings account balances contain only 16% of the overall bad borrowers <br>
+
+2. The Current account which 'Have Current Account' Contain Relatively More Risky Borrower than Account with No Current Account. Hence, Check Account is a Potential Segmentation Variable. <br>
+
+3. Non-Relationship Borrower resulted in 46% of the Defaults whereas Relationship Borrower resulted in 31% of the defaults in relationship segment. In total, Overall default was 42%. <br>
+
+4. Nearly 80% of the total accounts in the portfolio are related to Automobiles and Consumption loans. These two products collectively contribute to almost 75% of the total bad accounts Hence, there is a chance that larger defaults may occur with significant exposures,especially in the case of large-ticket transactions. <br>
+
+5. The majority of the accounts classified as bad are primarily associated with Auto loans and Consumption Loans. <br>
+
+6. The average age of customers in the group which are Good is 36, whereas the average age in the group which turned into Bad Account is 33. <br>
+
+7. Bad rates are noted in the 19-29 age group, while conversely, good rates are also observed in the same age group. Additionally, there is a decrease in bad rates from the 19-29 age group to the 59-69 age group, indicating a 
+    continuous rank ordering without a significant break. <br>
+
+
+
 
 
 
