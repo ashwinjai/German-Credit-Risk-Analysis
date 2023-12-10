@@ -49,6 +49,12 @@ In the concluding stage, the dataset is split into model development and Model V
 
 ## Summary 
 
+![Screenshot 2023-12-11 001030](https://github.com/ashwinjai/German-Credit-Risk-Analysis/assets/36980518/6bbd04a2-95e4-4a3f-931e-f58ab588ee0c)  <br>
+
+
+![Screenshot 2023-12-11 001312](https://github.com/ashwinjai/German-Credit-Risk-Analysis/assets/36980518/6ac4d744-b2bb-4d60-8061-7a0c5ffe9e7e)  <br>
+
+
 
 
 
