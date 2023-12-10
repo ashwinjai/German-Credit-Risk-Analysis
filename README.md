@@ -20,3 +20,11 @@ In the subsequent stage, the complete portfolio undergoes measurement using dive
 ***3. Data Quality Checks*** :    <br>
 
 In the next phases, Data Quality check are being performed. It involves classifying the variables into distinct categories, including identification, date, continuous, and categorical variables and Conduct a thorough examination of missing observations for all variables. The Key continuous variables are analyzed through univariate analysis, gaining insights into their individual distributions,parallelly key categorical variables is analyzed using frequency distribution offering a detailed examination of the occurrence of different categories within each variable. This systematic approach ensures a comprehensive exploration and understanding of the  bank dataset, covering data extraction, variable classification, handling missing data, and detailed analyses of both continuous and categorical variables.  <br>
+
+***4. Data Preparation and Model Development*** :    <br>
+
+In the concluding stage, the dataset is split into model development and Model Validation dataset. A model is constructed using the development data, and the resulting model equation is applied to the validation data. Neccessary measure taken  to have balanced bad rate distribution for Development and Validation Samples, statistical test is performed for model accuracy and stability and caution taken to avoid high multicollinearity.   <br>
+
+
+
+
