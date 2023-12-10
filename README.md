@@ -47,6 +47,8 @@ In the concluding stage, the dataset is split into model development and Model V
 
 10. The average Loan Duration given to borrower turned bad is 2 Years however the average Loan Duration given to borrower not defaulted is 1 Year 7 Months. <br>
 
+## Conclusion 
+
 
 
 
