@@ -40,6 +40,16 @@ In the concluding stage, the dataset is split into model development and Model V
 
 7. Bad rates are noted in the 19-29 age group, while conversely, good rates are also observed in the same age group. Additionally, there is a decrease in bad rates from the 19-29 age group to the 59-69 age group, indicating a 
     continuous rank ordering without a significant break. <br>
+    
+8. One important observation across all job categories is that an employee becomes more reliable after working for more than four years in a given profession. Hence, the bad rate declines in the category employment = 3,4. <br>
+
+9. German Bank has total Receivable of 3.2 Million Deutschmark and Average Receivable of 3271.2 Deutschmark. Bank total accounts reported was 1000 accounts. <br>
+
+10. The average Loan Duration given to borrower turned bad is 2 Years however the average Loan Duration given to borrower not defaulted is 1 Year 7 Months. <br>
+
+
+
+
 
 
 
