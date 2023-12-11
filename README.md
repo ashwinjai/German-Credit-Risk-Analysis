@@ -1,5 +1,8 @@
 # German Credit Risk Analysis
 
+## Project Overview:
+German Credit Risk Analysis project built to assess the credit risk associated with individuals applying for loans in a financial institution. By analyzing historical credit data from German banks, this project aims to develop a predictive model that can assist in evaluating and mitigating potential risks associated with lending. <br>
+
 ## Problem Statement
 When evaluating loan applications, companies face the challenge of determining whether to approve or reject based on the applicant's credit risk.
 Credit risk is the potential of a borrower to default on debt payments. <br>
