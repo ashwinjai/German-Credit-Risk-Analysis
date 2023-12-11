@@ -1,4 +1,4 @@
-# German-Credit-Risk-Analysis
+# German Credit Risk Analysis
 
 ## Problem Statement
 When evaluating loan applications, companies face the challenge of determining whether to approve or reject based on the applicant's credit risk.
